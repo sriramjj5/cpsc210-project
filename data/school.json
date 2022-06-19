@@ -1,0 +1,36 @@
+{
+    "currentStudents": [
+        {
+            "courses": [
+                {"courseID": "cs210"},
+                {"courseID": "engl100"},
+                {"courseID": "astr250"}
+            ],
+            "password": "abc",
+            "name": "sriram",
+            "username": "sriramj"
+        },
+        {
+            "courses": [],
+            "password": "abc",
+            "name": "sriramj",
+            "username": "sriramj2"
+        },
+        {
+            "courses": [],
+            "password": "",
+            "name": "",
+            "username": ""
+        }
+    ],
+    "existingCourses": [
+        {"courseID": "cs100"},
+        {"courseID": "cs210"},
+        {"courseID": "math100"},
+        {"courseID": "bio121"},
+        {"courseID": "engl100"},
+        {"courseID": "geo150"},
+        {"courseID": "astr250"},
+        {"courseID": "eco220"}
+    ]
+}

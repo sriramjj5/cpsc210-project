@@ -1,0 +1,13 @@
+{
+  "currentStudents": [],
+  "existingCourses": [
+    {"courseID": "cs100"},
+    {"courseID": "cs210"},
+    {"courseID": "math100"},
+    {"courseID": "bio121"},
+    {"courseID": "engl100"},
+    {"courseID": "geo150"},
+    {"courseID": "astr250"},
+    {"courseID": "eco220"}
+  ]
+}
